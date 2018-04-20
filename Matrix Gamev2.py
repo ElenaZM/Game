@@ -3,7 +3,7 @@
 #Code Name: Matrix Trick
 #Developed by: ElenaZ
 #Date: 20 Apr, 2018
-#Code Description: it is a game that demonstrate liner algebra. It asks for
+#Code Description: it is a game that demonstrate linear algebra. It asks for
 #random 5 numbers from a user and display the sum of the numbers selected
 #fun to play:)
 ###########################################################################
@@ -46,4 +46,4 @@ print('Rule 2: number sits on matrix position =11 can not be selected!')
 print('------------- calculating the the sum of your selected 2 numbers /.\./.\. ---------')
 time.sleep(30)
 total_out= str(int(theBoard['12']) + int(theBoard['13']) + int(theBoard['21']) + int(theBoard['31']))
-print('the sum of your selected 2 numbers is: ' + total_out)
+print('sum of your selected 2 numbers is: ' + total_out)
