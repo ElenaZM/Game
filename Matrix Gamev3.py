@@ -2,6 +2,7 @@
 ###########################################################################
 #Code Name: Matrix Trick
 #Developed by: ElenaZ
+#Modified by: Eric Zhou
 #Date: 20 Apr, 2018
 #Code Description: it is a game that demonstrates liner algebra -  matrix function. It asks for
 #any five random numbers from user and displays the sum of the selected numbers.
